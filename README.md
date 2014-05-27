@@ -34,5 +34,31 @@ We want to leave the world a better place before we arrived on the scene.
 We intend to accomplish this through technology.
 
 ### WHAT
-We sell software services and informational products that are related to software.
+We sell :
+ - software services and products 
+ - software-skills mastery services and products
 
+## What we look out for when we develop our products and services
+
+There are only 4 criteria to consider when developing products and services.
+
+In descending order of importance:
+
+ 1. Make our customers' lives better (better itself is broken down into happier, easier, and more profitable).
+ 2. Make our products and services beautiful and easy to maintain.
+ 3. Make our products and services beautiful and easy to extend.
+ 4. Make it beautiful and easy for us to develop new products and services.
+
+
+While four criteria are stated in four separate lines, it does not follow that all four are equal or similarly proportioned in importance.
+
+A useful way to look at this is to assume a totality of 100% in importance and distributed in these 4 criteria.
+
+ 1. 90% - Make our customers' lives better (better itself is broken down into happier, easier, and more profitable).
+ 2. 7% - Make our products and services beautiful and easy to maintain.
+ 3. 2.9% - Make our products and services beautiful and easy to extend.
+ 4. 0.1% - Make it beautiful and easy for us to develop new products and services.
+
+In other words, 90% of importance is focused on making our customers' lives better. The 99% of the remaining is to make the artifacts of our products and services easy to maintain and extend.
+
+Our ease in developing new products and services is not only the last of the four criteria, percentage-wise it is almost negligible. *Almost* is the keyword. Because it is still important enough to make our lives easy as well. Because we are not complete martyrs and idiots.
